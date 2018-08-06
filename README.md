@@ -95,3 +95,8 @@ When you are done updating it and 100% sure it is ready to go to the app store d
 14) Go download the new version of the App! You are ready to go!!!
 
 
+## Authors
+
+* **William Ogura** - *CTV-Main-Build OLD VERSION* - [willogura](https://github.com/willogura)
+* **Derick Wasswa** - *Made minor change in OLD VERSION* - [derickwasswa](https://github.com/willogura)
+* **Charles Rooney** - *CTVapp NEW VERSION. Updated app to version 4.0* - [croon5086](https://github.com/croon5086)
