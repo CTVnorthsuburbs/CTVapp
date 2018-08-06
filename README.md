@@ -38,7 +38,7 @@ Start coding and help out!
 
 ## Wiki
 
-Check out the Wiki tab here in CTVnorthsuburbs/CTVapp
+Check out the Wiki here in CTVnorthsuburbs/CTVapp
 
       How to update app on the App Store
   
