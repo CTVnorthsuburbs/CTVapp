@@ -38,11 +38,13 @@ Start coding and help out!
 
 ## Wiki
 
-Check out the Wiki tab here in Git hub if you have any other questions. 
+Check out the Wiki tab here in CTVnorthsuburbs/CTVapp
 
-      How to update it on the App Store
+      How to update app on the App Store
   
-      Some things to get you familiar with xcode
+      Familiarize with xcode
+      
+      About files
   
       ect.....
 
