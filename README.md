@@ -1,11 +1,11 @@
-# CTVapp
-CTV APP README
------------------------------------------------------------------------------------------
-CTV app starting at Version 4
-Updated Monday August 6th 2018 by IT INTERN Charlie Rooney
-
-
-
+# CTVapp/n
+CTV APP README/n
+-----------------------------------------------------------------------------------------/n
+CTV app starting at Version 4/n
+Updated Monday August 6th 2018 by IT INTERN Charlie Rooney/n
+/n
+/n
+/n
                         FILE DESCRIPTIONS
 
 **--------------------ScreenShots for App Store-----------------------------**
