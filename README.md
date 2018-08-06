@@ -1,46 +1,54 @@
 # CTVapp
-CTV APP README
+
+  The CTV IOS App. It is a Video Player App where you can search, bookmark, download, and watch CTV shows and productions. This includes local Sports, meetings, parades, shows, graduations, and much more.
+  This README how to set up the project on your computer as well as file descriptions and how to upload it to the app store.
+
+## Getting Started
+
+  These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+
 -----------------------------------------------------------------------------------------
 CTV app starting at Version 4
 Updated Monday August 6th 2018 by IT INTERN Charlie Rooney
 
-                        FILE DESCRIPTIONS
+## FILE DESCRIPTIONS
 
-**--------------------ScreenShots for App Store-----------------------------**
+### ScreenShots for App Store
 -Screenshot .png's for the app store
 
-
-**--------------------CTV App.xcodeproj.zip---------------------------------**
+### TV App.xcodeproj.zip
 -unzip this file
+
 -This is what you use to open up the xcode project
+
 -double click this (after you unzip this) to open up the entire project
 
 
-**--------------------Model.xcdatamodeld.zip--------------------------------**
+### Model.xcdatamodeld.zip
 -unzip this before running
+
 -some xcode stuff( do not need to worry about it)
 
-
-**--------------------READ.md-----------------------------------------------**
+### READ.md
 -This file you are reading right now!
 
-
-**--------------------HalfTunes folder--------------------------------------**
+### HalfTunes folder
 This folder contains everything for the app. Everything is in here.
 Do not know why HalfTunes is the name, but that is the name given on the old version so kept it.
 
-  **Assets.xcassets**
+  #### Assets.xcassets
     -contains all the pictures/images for the app
-  **Gloss**
+  #### Gloss 
     - Not sure what these files are for
     -Something to do with xcode. Would not spend to much time looking at it.
-  **coredata**
+  #### coredata
     - Not sure what these files are for
     -Something to do with xcode. Would not spend to much time looking at it.
-  **masterdetailsample**
+  #### masterdetailsample
     - Not sure what these files are for
     -Something to do with xcode. Would not spend to much time looking at it.
-  **All the rest of the Files in HalfTunes**
+  #### All the rest of the Files in HalfTunes
     AboutViewController
     Alamofire.h
     Alamofire.swift
