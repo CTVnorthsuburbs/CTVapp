@@ -1,4 +1,4 @@
-# CTVapp
+# CTV App
 
   The CTV IOS App. It is a Video Player App where you can search, bookmark, download, and watch CTV shows and productions. This includes local Sports, meetings, parades, shows, graduations, and much more.
   
@@ -9,7 +9,8 @@
   Do not forget to comment and Stay consistent with the formatting!
   
   Save often.
-  
+## Issues
+  See the Issues tab here on Git Hub for most recent issues with the app.
   
 ## Getting Started
 
@@ -28,7 +29,11 @@ Open the file up.
 
 Unzip the CTV App.xcodeproj.zip and the Model.xcdatamodeld.zip
 
-Double click CTV App.xcodeproj and you should be good to go!!!
+Double click CTV App.xcodeproj
+
+You should be good to go!!!
+
+Start coding and help out!
 
 ## In Xcode
 
