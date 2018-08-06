@@ -35,32 +35,16 @@ You should be good to go!!!
 
 Start coding and help out!
 
-## In Xcode
-
-### Running on Simulator
-In the very top left of the screen in xcode there is a play button and a stop button. These start and stop a simulator.
-
-Select the iphone type you want to run it on next to the stop button.
-
-Press play to run. Stop to be done.( May take a while for the phone to start up the first time)
-
-
-### Important Left Side Tabs
-
-#### Folder Image
-Lists All files
-   
-Can put files into groups/folders to organize the code. (This does not change how they are organized in the actual folder, just how they appear in the xcode enviroment).
-
-#### Triangle With "!" Image
-Shows Runtime and BuildTime Errors
-   
-Important for seeing what is wrong/ what needs to be updated.
-
 
 ## Wiki
 
-Check out the Wiki tab here in Git hub if you have any other questions. Such as how to update it on the app store.
+Check out the Wiki tab here in Git hub if you have any other questions. 
+
+      How to update it on the App Store
+  
+      Some things to get you familiar with xcode
+  
+      ect.....
 
 ## Authors
 
