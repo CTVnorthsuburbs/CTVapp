@@ -45,7 +45,7 @@ Press play to run. Stop to be done.( May take a while for the phone to start up 
 #### Folder Image
 Lists All files
    
-Can put files into groups/folders to organize the code. (This does not change how they are organized in the actual folde, just how they appear in the xcode enviroment).
+Can put files into groups/folders to organize the code. (This does not change how they are organized in the actual folder, just how they appear in the xcode enviroment).
 
 #### Triangle With "!" Image
 Shows Runtime and BuildTime Errors
