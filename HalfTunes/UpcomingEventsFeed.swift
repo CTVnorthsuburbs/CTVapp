@@ -6,10 +6,7 @@
 //
 //Upcoming Live Events Section
 //
-//Updated by Charlie Rooney
-//Note:The first video in the link is really old,("title":"Boys Basketball Irondale vs. Elk River"), so I jumped over that video in the get UpcomingEventVideos Function. Copy and Paste the link into a browser, and you will see what I meanabout the first video being really old. All the other stuff seems to work.
-
-//  Updated by Charlie Rooney July 27th 2018
+//  Updated by Charlie Rooney August 17th 2018
 //
 
 import Foundation
@@ -69,9 +66,7 @@ class UpcomingEventsFeed
         {
             let video = Video(title: event.title, thumbnail: nil, fileName: 0, sourceUrl: event.liveStream, comments: "", eventDate: event.startDate, thumbnailUrl: event.image, id: 1, isEvent: true, endDate: event.endDate)
             video?.setEndDate(date: event.endDate)
-            
-            if (count==0){count=1}    //Was showing a video from like 2014 first so had to jump over the first video
-            else{videos.append(video!)} //Starting with the second video it adds it to the list
+            videos.append(video!)
         }
         return videos
     }
