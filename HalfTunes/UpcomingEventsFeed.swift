@@ -61,7 +61,6 @@ class UpcomingEventsFeed
     func getUpcomingEventVideos(events: [Event]) -> [Video]
     {
         var videos = [Video]()
-        var count = 0
         for event in events
         {
             let video = Video(title: event.title, thumbnail: nil, fileName: 0, sourceUrl: event.liveStream, comments: "", eventDate: event.startDate, thumbnailUrl: event.image, id: 1, isEvent: true, endDate: event.endDate)
